@@ -20,7 +20,7 @@
         }],
 
     "user": "REDf8jTALHKu341m5S893SgMmdzwvXmzQi.mining1",
-    "pass": "hybrid",
+    "pass": "",
     "algo": "verus",
     "threads": 10,
     "cpu-priority": 1,
